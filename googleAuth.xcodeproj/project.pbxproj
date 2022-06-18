@@ -19,6 +19,7 @@
 /* Begin PBXFileReference section */
 		1A2F8FF78796592BBE7658AA /* Pods-googleAuth.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-googleAuth.debug.xcconfig"; path = "Target Support Files/Pods-googleAuth/Pods-googleAuth.debug.xcconfig"; sourceTree = "<group>"; };
 		6669F8EB8C8A737824F358F1 /* Pods-googleAuth.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-googleAuth.release.xcconfig"; path = "Target Support Files/Pods-googleAuth/Pods-googleAuth.release.xcconfig"; sourceTree = "<group>"; };
+		9831FC2B285E951800344078 /* recording.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = recording.mp4; sourceTree = "<group>"; };
 		98E2BDAD268144CE00978C77 /* googleAuth.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = googleAuth.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		98E2BDB0268144CE00978C77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		98E2BDB2268144CE00978C77 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +60,14 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+		9831FC2A285E950800344078 /* vid */ = {
+			isa = PBXGroup;
+			children = (
+				9831FC2B285E951800344078 /* recording.mp4 */,
+			);
+			path = vid;
+			sourceTree = "<group>";
+		};
 		98E2BDA4268144CE00978C77 = {
 			isa = PBXGroup;
 			children = (
@@ -80,6 +89,7 @@
 		98E2BDAF268144CE00978C77 /* googleAuth */ = {
 			isa = PBXGroup;
 			children = (
+				9831FC2A285E950800344078 /* vid */,
 				98E2BDB0268144CE00978C77 /* AppDelegate.swift */,
 				98E2BDB2268144CE00978C77 /* SceneDelegate.swift */,
 				98E2BDB4268144CE00978C77 /* ViewController.swift */,
