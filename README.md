@@ -14,8 +14,9 @@ The application was built using:
 * GoogleSignIn
 
 ### Demonstration
-<video width="250" controls>
-  <source src="googleAuth/Assets.xcassets/recording.dataset/recording.mp4" type="video/mp4">
-</video>
+![Watch the video](googleAuth/Assets.xcassets/recording.dataset/recording.mp4)
+<!-- <video width="250" controls>
+  <source src="" type="video/mp4">
+</video> -->
 
 Cheers 🍿
