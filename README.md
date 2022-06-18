@@ -7,17 +7,18 @@ The application was built using:
 * Swift 5.4
 * macOS Big Sur 11.5.2
 
-* 
 ### Core Technologies 📲
 * Swift
 * Storyboards
 * GoogleSignIn
 
+### To run
+* clone project
+* open folder path in terminal. run `pod install`
+* run the `xcworkspace` project. 
+
 ### Demonstration
-<!-- ![Watch the video](googleAuth/vid/recording.mp4) -->
 ![](googleAuth/Assets.xcassets/recording.mp4)
-<!-- <video width="250" controls>
-  <source src="" type="video/mp4">
-</video> -->
+
 
 Cheers 🍿
