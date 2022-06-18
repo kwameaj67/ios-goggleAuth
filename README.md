@@ -18,7 +18,7 @@ The application was built using:
 * run the `xcworkspace` project. 
 
 ### Demonstration
-![](googleAuth/Assets.xcassets/recording.mp4)
+![Wactch Here](googleAuth/Assets.xcassets/recording.mp4)
 
 
 Cheers 🍿
